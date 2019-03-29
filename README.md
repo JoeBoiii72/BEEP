@@ -1,2 +1,3 @@
 # BEEP
-Generate tones Pretty useless, uses the beeping function that appears in windows.h.
+Generate tones from a starting frequency, stops at around 17,000Hz...
+Pretty useless, uses the beeping function that appears in windows.h.
